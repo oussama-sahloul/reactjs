@@ -4,6 +4,7 @@ import './App.css';
 import Navbar from './components/navbar.jsx';
 import Counters from './components/counters';
 
+// from branche 2
 class App extends Component {
 
   state = {
